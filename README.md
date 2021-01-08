@@ -1,6 +1,6 @@
 # README
 
-This is a collection of my recipes.
+This is a collection of my recipes and culinary tips. The site is under construction.
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
