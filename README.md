@@ -1,4 +1,4 @@
-# git-wiki-skeleton
+# README
 
 This is a collection of my recipes.
 
