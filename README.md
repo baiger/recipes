@@ -1,6 +1,8 @@
 # README
 
 This is a collection of my recipes and culinary tips. The site is under construction.
+### Contact me
+You can make a suggestion or contact me about this site by email: <baiger-recipes@protonmail.com>.
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
