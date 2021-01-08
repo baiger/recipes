@@ -3,7 +3,7 @@
 This recipe is adapted from [Thursday Night Pizza](https://www.thursdaynightpizza.com/neapolitan-pizza-dough/) and [The Baking Steel Blog](https://bakingsteel.com/blogs/news/72-hour-pizza-dough).
 
 ## Ratio
-See [baker's percentage].
+See [baker's percentage](bakers-percentage).
 * Flour 100%
 * Water 70%
 * Salt 3%
