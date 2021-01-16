@@ -1,6 +1,6 @@
 # Teriyaki Sauce
 
-## Ratio
+## Ratio (Volume)
 
 * 4 parts **(rice) cooking wine**
 * 2 parts **(light) soy sauce**
