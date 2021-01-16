@@ -15,13 +15,22 @@ Mix all the ingredients. Cover the dough and let it sit in [room temperature], a
 
 ## Pizza Size and Dough Weight
 
-Generally, you want the edge of the pizza to be a bit thicker. Empirical data suggests about 1.5g of dough per square inch of pie plus about 3-5g per inch of rind.
+Generally, the rind of the pizza is a bit thicker than the center. Empirical data suggests about 2g of dough per square inch of pie plus about 3-5g per inch of rind. The following tables can be used as a reference. *Remember: you do not need to be precise; triangular pizzas taste just as good as round ones.*
 
-Round Pizzas
+### Round Pizzas
+
 | Diameter | Dough Weight |
 |----------|--------------|
 | 6"/15cm  | 150g         |
-| 10"/25cm | 250g         |
+| 8"/20cm  | 175g         |
+| 10"/25cm | 210g         |
+| 12"/30cm | 275g         |
 | 16"/40cm | 450g         |
 
-Rectangular Pizzas
+### Rectangular Pizzas
+
+| Dimension | Dough Weight |
+|-----------|--------------|
+| 8x8"      | 200g         |
+| 7x11"     | 250g         |
+| 9x13"     | 350g         |
