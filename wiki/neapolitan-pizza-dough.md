@@ -14,3 +14,11 @@ See [baker's percentage](bakers-percentage).
 Mix all the ingredients. Cover the dough and let it sit in [room temperature], about 20&deg;C, for 24 hours. Split the dough into smaller balls, each to make one pizza, and refrigiate for an additional 24-96 hours. Return the dough to room temperature an hour before building and baking pizzas.
 
 ## Pizza Size and Dough Weight
+Round Pizzas
+|----------|--------------|
+| Diameter | Dough Weight |
+|----------|--------------|
+| 6"       | 150g         |
+| 10" | 250g |
+| 16" | 450g |
+|----------|--------------|
