@@ -1,9 +1,4 @@
----
-created: 2021-01-15T22:15:59-05:00
-modified: 2021-01-15T22:17:04-05:00
----
-
-# Teriyaki sauce
+# Teriyaki Sauce
 
 ## Ratio
 
