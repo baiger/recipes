@@ -39,6 +39,6 @@ Generally, the rind of the pizza is a bit thicker than the center. Empirical dat
 
 ## Toppings
 
-Traditional Neapolitan pizzas have 
+Original Neapolitan pizzas have two variants: pizza Margherita (tomato sauce, mozzarella cheese, fresh basil leaves, and olive oil) and pizza marinara (tomato sauce, olive oil, oregano, and garlic).
 
 ## Baking Instructions
