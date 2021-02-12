@@ -41,3 +41,4 @@ Test for doneness near the end of prescribed cooking time. You should taste a fe
 ### Filling
 
 ### Confectionery
+* [Adzuki coconut smoothie](adzuki-coconut-smoothie)
