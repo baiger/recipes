@@ -32,6 +32,7 @@ Test for doneness near the end of prescribed cooking time. You should taste a fe
 ## Uses
 
 ### Salad
+* [Bean salad](bean-salad)
 
 ### Broth/soup
 
