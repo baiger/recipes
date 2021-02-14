@@ -24,8 +24,8 @@ For every 9" okonomiyaki:
 * 100g water
 * 75g thinly sliced cabbage
 * 25g thinly sliced onion
-* 1g salt
 * 1g bonito flakes
+* 0.5g salt
 
 Additional ingredients such as seafood can be added to the batter. However, the amount of flour, water, and salt must be adjusted if you add more than 50g per pancake. To maintain the integrity of the pancake during flipping and cutting, it's the best for the size of additional ingredient pieces to not exceed a cube with 1/4" (0.5cm) edges.
 
