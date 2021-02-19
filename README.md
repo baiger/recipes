@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-19T01:37:42-05:00
+modified: 2021-02-19T01:38:16-05:00
 ---
 
 # README
@@ -16,7 +16,7 @@ A temporary ToC until I implement a tag system. In alphabetical order:
 * [Basic white bread](basic-white-bread)
 * [Bean salad](bean-salad)
 * [Char siu](char-siu)
-* [Gotten formation] (gluten-formation)
+* [Gluten formation] (gluten-formation)
 * [Japanese cheesecake](japanese-cheesecake)
 * [Neapolitan pizza dough](neapolitan-pizza-dough)
 * [Okonomiyaki](okonomiyaki)
