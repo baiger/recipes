@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-19T01:38:16-05:00
+modified: 2021-02-19T01:43:06-05:00
 ---
 
 # README
@@ -9,20 +9,7 @@ This is a collection of my recipes and culinary tips. The site is under construc
 You can make a suggestion or contact me about this site by email: <baiger-recipes@protonmail.com>.
 
 ## Table of Contents
-A temporary ToC until I implement a tag system. In alphabetical order:
-* [Adzuki coconut smoothie](adzuki-coconut-smoothie.md)
-* [Bai qie ji](bai-qie-ji)
-* [Baker's percentage](bakers-percentage)
-* [Basic white bread](basic-white-bread)
-* [Bean salad](bean-salad)
-* [Char siu](char-siu)
-* [Gluten formation] (gluten-formation)
-* [Japanese cheesecake](japanese-cheesecake)
-* [Neapolitan pizza dough](neapolitan-pizza-dough)
-* [Okonomiyaki](okonomiyaki)
-* [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
-* [Pulses](pulses)
-* [Teriyaki sauce] (teriyaki-sauce)
+A temporary ToC until I implement a tag system: [Table of Contents](./toc)
 
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
