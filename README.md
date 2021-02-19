@@ -1,7 +1,3 @@
----
-modified: 2021-02-19T01:47:23-05:00
----
-
 # README
 
 This is a collection of my recipes and culinary tips. The site is under construction.
