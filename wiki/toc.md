@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-02-19T01:43:13-05:00
+modified: 2021-02-19T01:44:02-05:00
 ---
 
 # Table of Contents
@@ -12,10 +12,10 @@ In alphabetical order:
 * [Basic white bread](basic-white-bread)
 * [Bean salad](bean-salad)
 * [Char siu](char-siu)
-* [Gluten formation] (gluten-formation)
+* [Gluten formation](gluten-formation)
 * [Japanese cheesecake](japanese-cheesecake)
 * [Neapolitan pizza dough](neapolitan-pizza-dough)
 * [Okonomiyaki](okonomiyaki)
 * [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
 * [Pulses](pulses)
-* [Teriyaki sauce] (teriyaki-sauce)
+* [Teriyaki sauce](teriyaki-sauce)
