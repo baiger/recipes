@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-19T01:44:16-05:00
+modified: 2021-02-19T01:47:23-05:00
 ---
 
 # README
@@ -9,8 +9,7 @@ This is a collection of my recipes and culinary tips. The site is under construc
 You can make a suggestion or contact me about this site by email: <baiger-recipes@protonmail.com>.
 
 ## Table of Contents
-A temporary ToC until I implement a tag system: [Table of Contents]()
-
+A temporary ToC until I implement a tag system: [Table of Contents](https://baiger.github.io/recipes/toc)
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
