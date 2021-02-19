@@ -1,8 +1,19 @@
+---
+modified: 2021-02-19T01:30:42-05:00
+---
+
 # README
 
 This is a collection of my recipes and culinary tips. The site is under construction.
 ## Contact me
 You can make a suggestion or contact me about this site by email: <baiger-recipes@protonmail.com>.
+
+## Table of Contents
+A temporary ToC until I implement a tag system. In alphabetical order:
+* [Bai qie ji](bai-qie-ji)
+* [Char siu](char-siu)
+* [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
+* [Pulses](pulses)
 
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
