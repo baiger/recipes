@@ -1,5 +1,5 @@
 ---
-modified: 2021-02-19T01:32:00-05:00
+modified: 2021-02-19T01:32:57-05:00
 ---
 
 # README
@@ -12,6 +12,7 @@ You can make a suggestion or contact me about this site by email: <baiger-recipe
 A temporary ToC until I implement a tag system. In alphabetical order:
 * [Adzuki coconut smoothie](adzuki-coconut-smoothie.md)
 * [Bai qie ji](bai-qie-ji)
+* [Baker's percentage](bakers-percentage)
 * [Char siu](char-siu)
 * [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
 * [Pulses](pulses)
