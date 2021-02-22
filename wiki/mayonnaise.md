@@ -1,6 +1,6 @@
 ---
 created: 2021-02-22T03:04:03-05:00
-modified: 2021-02-22T06:21:03-05:00
+modified: 2021-02-22T06:31:45-05:00
 ---
 
 # Mayonnaise
@@ -17,7 +17,15 @@ Mayonnaise is an oil-in-water emulsion traditionally made with vegetable oil, eg
 
 ## Method
 
+Let all the ingredients come to room temperature.
+
+Whisk the egg yolk, salt, and mustard slightly. Starting with 1 tbsp of oil each time (typically, you can safely add as much oil, volume wise, as egg yolk, but starting slow is unlikely to fail), whisk until the oil is completely incorporated into egg yolk mixture. Repeat. Whenever the sauce thickens to scoopable, add more vinegar/water/lemon juice based on your desired flavour.
+
 ## Notes
+
+### Storage & Shelf Life
+
+If not used immediately, mayonnaise should be stored in an airtight container in the fridge for no more than 3 days (avoid making too much since it cannot be frozen -- it will separate). Do not use metal containers unless you know it won't react with the acid.
 
 ### Flavour
 
@@ -29,7 +37,7 @@ Egg yolk contains a variety of molecules that exhibit surface activity, includin
 
 The separation of oil and water phases is the most frequent problem with traditional mayonnaise, particularly when it experiences sharp temperature change such as refrigeration. If that happens, you can usually re-emulsify the mixture slowly into a new egg yolk or heavy cream (cream is itself an oil-in-water emulsion). Too thick an emulsion may also break more easily.
 
-James Peterson, in his book *Sauces*, introduces a sous vide method to "stabilize" the mayonnaise: cooking the egg yolks in a 60&deg;C water bath for 30 minutes before whipping the sauce. He also suggests 1-2% additional lecithin for a more stable emulsion.
+James Peterson, in his book *Sauces*, introduces a sous vide method to "stabilize" the mayonnaise: cooking the egg yolks in a 60&deg;C water bath for 30 minutes before whipping the sauce. This method also pasteurizes the egg yolk, making the mayonnaise safer. He also suggests 1-2% additional lecithin for a more stable emulsion.
 
 Other emulsion stabilizers can be considered. They are usually either emulsifiers or thickeners. Salt in the recipe can also help maintaining the repulsion between dispersed oil droplets through the electric charges of ions, but too much salt can also destabilize the emulsion.
 
