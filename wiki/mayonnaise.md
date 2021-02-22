@@ -1,6 +1,6 @@
 ---
 created: 2021-02-22T03:04:03-05:00
-modified: 2021-02-22T06:42:49-05:00
+modified: 2021-02-22T09:20:58-05:00
 ---
 
 # Mayonnaise
@@ -29,7 +29,7 @@ If not used immediately, mayonnaise should be stored in an airtight container in
 
 ### Flavour
 
-Untreated extra virgin olive oil (or mustard oil) causes a slightly bitter taste in mayo. Moreover, these water-soluble bitter compounds are said to destabilize the emulsion. To avoid it, use all or mostly [neutral oils](oil); alternatively, pour boiling water into olive oil (or mustard oil), shake the mixture, let it sit, and then separate the oil and water phases. The science behind this treatment method is explained in <https://www.seriouseats.com/2020/10/how-to-debitter-olive-oil.html>.
+Untreated extra virgin olive oil (or mustard oil) causes a slightly bitter taste in mayo. Moreover, these water-soluble bitter compounds are said to destabilize the emulsion. To avoid it, use all or mostly [neutral oils](cooking-oil); alternatively, pour boiling water into olive oil (or mustard oil), shake the mixture, let it sit, and then separate the oil and water phases. The science behind this treatment method is explained in <https://www.seriouseats.com/2020/10/how-to-debitter-olive-oil.html>.
 
 ### Emulsion Stability
 
