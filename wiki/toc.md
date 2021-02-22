@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-02-22T06:17:59-05:00
+modified: 2021-02-22T07:51:48-05:00
 ---
 
 # Table of Contents
@@ -16,6 +16,7 @@ In alphabetical order:
 * [Japanese cheesecake](japanese-cheesecake)
 * [Mayonnaise](mayonnaise)
 * [Neapolitan pizza dough](neapolitan-pizza-dough)
+* [Cooking oil](cooking-oil)
 * [Okonomiyaki](okonomiyaki)
 * [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
 * [Pulses](pulses)
