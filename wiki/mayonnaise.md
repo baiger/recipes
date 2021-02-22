@@ -1,6 +1,6 @@
 ---
 created: 2021-02-22T03:04:03-05:00
-modified: 2021-02-22T06:16:48-05:00
+modified: 2021-02-22T06:21:03-05:00
 ---
 
 # Mayonnaise
@@ -31,7 +31,7 @@ The separation of oil and water phases is the most frequent problem with traditi
 
 James Peterson, in his book *Sauces*, introduces a sous vide method to "stabilize" the mayonnaise: cooking the egg yolks in a 60&deg;C water bath for 30 minutes before whipping the sauce. He also suggests 1-2% additional lecithin for a more stable emulsion.
 
-Other emulsion stabilizers can be considered. They are usually either emulsifiers or thickener. Salt in the recipe can also help maintaining the repulsion between dispersed oil droplets through the electric charges of ions, but too much salt can also destabilize the emulsion.
+Other emulsion stabilizers can be considered. They are usually either emulsifiers or thickeners. Salt in the recipe can also help maintaining the repulsion between dispersed oil droplets through the electric charges of ions, but too much salt can also destabilize the emulsion.
 
 
 ### Ratio
