@@ -1,6 +1,3 @@
-<body>
-    {% include git-wiki/sections/content/wrapper.html %}
-
     <span>[
         {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
@@ -8,6 +5,3 @@
         {% endfor %}
     ]</span>
 
-    {% include debug-print.html %}
-    {% include git-wiki/sections/tail/tail.html %}
-</body>
