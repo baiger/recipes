@@ -73,6 +73,11 @@ defaults:
       path: "wiki"
     values:
       permalink: /:basename
+ - 
+    scope:
+      path: "tag"
+    values:
+      permalink: /tag/:basename
  -
     scope:
       path: "" # an empty string here means all files in the project
@@ -83,7 +88,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-default"
+      layout: "page-with-tags"
  -
     scope:
       path: ""
