@@ -132,8 +132,8 @@ inc_before_toc :
 inc_after_toc : 
 inc_before_content : 
 inc_after_content :
-  - page-tag-list.html
-#  - debug-print.html 
+#  - page-tag-list.html
+  - debug-print.html 
 inc_before_footer : 
 inc_after_footer : 
 inc_before_head : collect-tags.html
