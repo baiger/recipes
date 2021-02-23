@@ -142,7 +142,7 @@ inc_after_content :
   - debug-print.html 
 inc_before_footer : 
 inc_after_footer : 
-inc_before_head : collect-tags.html
+inc_before_head : 
 inc_after_head : 
 inc_before_meta : 
 inc_after_meta : 
