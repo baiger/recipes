@@ -1,4 +1,6 @@
 {% include page-tag-list.html %}
 
+{{ site.time }}
+{{ site.time | jsonify }}
 {{ site.tags | jsonify }}
 {{ page.tags | jsonify }}
