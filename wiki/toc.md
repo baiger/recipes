@@ -16,6 +16,7 @@ In alphabetical order:
 * [Japanese cheesecake](japanese-cheesecake)
 * [Mayonnaise](mayonnaise)
 * [Neapolitan pizza dough](neapolitan-pizza-dough)
+* [Filipino Adobo](filipino-adobo)
 * [Cooking oil](cooking-oil)
 * [Okonomiyaki](okonomiyaki)
 * [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
