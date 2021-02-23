@@ -2,7 +2,7 @@
 
 This is a collection of my recipes and culinary tips. The site is under construction.
 ## Contact me
-You can make a suggestion or contact me about this site by email: <baiger-recipes@protonmail.com>.
+You can make a suggestion or contact me directly on the [github page of this project](https://github.com/baiger/recipes/). Alternatively, you can also reach me by email: <baiger-recipes@protonmail.com>.
 
 ## Table of Contents
 A temporary ToC until I implement a tag system: [Table of Contents](https://baiger.github.io/recipes/toc)
