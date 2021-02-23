@@ -1,17 +1,18 @@
 # Filipino Adobo
 
+This recipe is contributed by "anon-homechef".
 
 ## Ingredients
 
 * 1 kg chicken
-* soy sauce
-* vinegar
-* garlic cloves, minced
-* water
-* brown sugar
-* salt
-* whole peppercorn
-* dried bay leaves
+* Soy sauce
+* Vinegar
+* Garlic cloves, minced
+* Water
+* Brown sugar
+* Salt
+* Whole peppercorn
+* Dried bay leaves
 
 ## Method
 
