@@ -91,6 +91,12 @@ defaults:
       layout: "git-wiki-default"
  -
     scope:
+      path: "tag"
+      type: "pages"
+    values:
+      layout: "tag-page"
+ -
+    scope:
       path: ""
       type: "posts"
     values:
