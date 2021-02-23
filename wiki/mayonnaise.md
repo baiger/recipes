@@ -1,6 +1,6 @@
 ---
 created: 2021-02-22T03:04:03-05:00
-modified: 2021-02-22T09:20:58-05:00
+modified: 2021-02-23T03:52:57-05:00
 ---
 
 # Mayonnaise
@@ -19,7 +19,7 @@ Mayonnaise is an oil-in-water emulsion traditionally made with vegetable oil, eg
 
 Let all the ingredients come to room temperature.
 
-Whisk the egg yolk, salt, and mustard slightly. Starting with 1 tbsp of oil each time (typically, you can safely add as much oil, volume wise, as egg yolk, but starting slow is unlikely to fail), whisk until the oil is completely incorporated into egg yolk mixture. Repeat. Whenever the sauce thickens to scoopable, add more vinegar/water/lemon juice based on your desired flavour.
+Whisk the egg yolk, salt, and mustard slightly. Starting with 1 tsp of oil each time (typically, you can safely add as much oil, volume wise, as egg yolk, but starting slow is unlikely to fail), whisk until the oil is completely incorporated into egg yolk mixture. Repeat. Whenever the sauce thickens to scoopable, add more vinegar/water/lemon juice based on your desired flavour.
 
 ## Notes
 
@@ -41,6 +41,7 @@ James Peterson, in his book *Sauces*, introduces a sous vide method to "stabiliz
 
 Other emulsion stabilizers can be considered. They are usually either emulsifiers or thickeners. Salt in the recipe can also help maintaining the repulsion between dispersed oil droplets through the electric charges of ions, but too much salt can also destabilize the emulsion.
 
+Another trick to get a more stable emulsion is to add a spoonful of store-bought mayo.
 
 ### Ratio
 
