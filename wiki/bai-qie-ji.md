@@ -1,8 +1,6 @@
 ---
 modified: 2021-02-20T20:57:48-05:00
-tag: chinese
-tag: chicken
-tag: poultry
+tags: chinese chicken poultry
 ---
 
 # Bai Qie Ji (Cantonese Poached Chicken)
