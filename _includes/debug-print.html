@@ -1,4 +1,4 @@
 {% include page-tag-list.html %}
 
-{{ site.tags }}
-{{ page.tags }}
+{{ site.tags | jsonify }}
+{{ page.tags | jsonify }}
