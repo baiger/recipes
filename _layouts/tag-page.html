@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: git-wiki-default
 ---
 <div class="page">
 <h1>Tag: {{ page.tag }}</h1>
 <ul>
 {% for tagged_page in site.tags[page.tag] %}
-  <li><a href="{{ page.url }}">{{ tagged_page.title }}</a>  </li>
+  <li><a href="{{ page.url }}">{{ tagged_page.title }}</a></li>
 {% endfor %}
 </ul>
 </div>
