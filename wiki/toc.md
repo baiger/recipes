@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-03-12T16:45:06-05:00
+modified: 2021-03-17T02:23:36-04:00
 ---
 
 # Table of Contents
@@ -14,6 +14,7 @@ In alphabetical order:
 * [Char siu](char-siu)
 * [Gluten formation](gluten-formation)
 * [Japanese cheesecake](japanese-cheesecake)
+* [Japanese curry block](japanese-curry-block)
 * [Mayonnaise](mayonnaise)
 * [Neapolitan pizza dough](neapolitan-pizza-dough)
 * [Filipino Adobo](filipino-adobo)
