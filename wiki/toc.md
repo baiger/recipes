@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-03-17T02:23:36-04:00
+modified: 2021-05-14T02:32:17-04:00
 ---
 
 # Table of Contents
@@ -22,5 +22,6 @@ In alphabetical order:
 * [Okonomiyaki](okonomiyaki)
 * [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
 * [Pâte à choux (choux pastry)](pate-a-choux)
+* [Pepperoni](pepperoni)
 * [Pulses](pulses)
 * [Teriyaki sauce](teriyaki-sauce)
