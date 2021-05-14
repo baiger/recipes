@@ -1,3 +1,7 @@
+---
+modified: 2021-05-14T12:00:16-04:00
+---
+
 # Neapolitan Pizza
 
 ---
@@ -42,3 +46,7 @@ Generally, the rind of the pizza is a bit thicker than the center. Empirical dat
 Original Neapolitan pizzas have two variants: pizza Margherita (tomato sauce, mozzarella cheese, fresh basil leaves, and olive oil) and pizza marinara (tomato sauce, olive oil, oregano, and garlic).
 
 ## Baking Instructions
+
+Bake on as high a temperature as your oven can manage. For optimal results, use a pizza oven capable of heating to 500&deg;C. It takes about 90 seconds to cook in a pizza oven; at 260&deg;C (or 500&deg;F), the usual highest temperature of conventional ovens, it bakes in 5-10 minutes, depending on size and whether a pizza stone/steel is used. For conventional ovens, the broiler can also be used in conjunction with a preheated pizza stone/steel to speed up cooking.
+
+Warning: if you want to use parchment paper to line a baking sheet, make sure its rated temperature is higher than what you would cook the pizza at. Do not use parchment paper with broiler.
