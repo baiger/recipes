@@ -1,6 +1,6 @@
 ---
 created: 2021-07-18T22:51:07-04:00
-modified: 2021-07-22T23:13:29-04:00
+modified: 2021-07-22T23:24:27-04:00
 ---
 
 # Sugars and Sweeteners
@@ -15,7 +15,7 @@ Sugars are not significantly different in their nutritional values. They only co
 
 Sweeteners generally provide significantly less energy at the same sweetness level compared with sugars. The micronutrients they contain, if any, are also trace amounts at best.
 
-These substances don't metabolize the same way. Glucose can be directly used by cells, while fructose has to be processed in the liver.
+These substances don't metabolize the same way. Glucose can be directly used by all cells, while fructose has to be processed mainly in the liver; these two also affect insulin secretion differently. Some artificial sweeteners, such as sugar alcohols, are not absorbed but rather linger in the GI tract, so overconsumption of them can cause diarrhea by osmosis. This is similar to what lactose does to lactose intolerant people.
 
 ## Sweetness
 
