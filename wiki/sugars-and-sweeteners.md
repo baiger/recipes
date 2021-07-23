@@ -5,6 +5,8 @@ modified: 2021-07-18T22:59:43-04:00
 
 # Sugar and Sweeteners
 
+## Calorie and Glycemic Index
+
 ## Sweetness
 
 ### Sweetness Profile
