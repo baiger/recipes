@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-08-07T00:08:05-04:00
+modified: 2021-08-07T00:09:01-04:00
 ---
 
 # Table of Contents
@@ -12,7 +12,8 @@ In alphabetical order:
 * [Basic white bread](basic-white-bread)
 * [Bean salad](bean-salad)
 * [Char siu](char-siu)
-* [Corn tortillas]
+* [Corn tortilla](corn-tortilla)
+* [Dumplings](dumplings)
 * [Gluten formation](gluten-formation)
 * [Japanese cheesecake](japanese-cheesecake)
 * [Japanese curry block](japanese-curry-block)
