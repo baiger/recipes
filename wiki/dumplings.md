@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T23:16:45-04:00
-modified: 2021-08-07T00:43:02-04:00
+modified: 2021-08-07T02:40:57-04:00
 ---
 
 # Dumplings
@@ -49,6 +49,15 @@ Regularly used spices and herbs include
 * Green onion
 
 Biting into a chunk of spice or herb in dumplings would be unpleasant. Therefore they are usually incorporated into the filling as powders or infused water/oil.
+
+A spice infused oil may look like this:
+* Fennel seeds 6g
+* Bay leaves 3g
+* Sichuan pepper 3g
+* Cinnamon 3g
+* Star anise 3g
+* Tsaoko 2, broken
+* Oil 200g
 
 ### Ground Meat
 
