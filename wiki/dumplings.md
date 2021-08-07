@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T23:16:45-04:00
-modified: 2021-08-07T00:34:44-04:00
+modified: 2021-08-07T00:38:00-04:00
 ---
 
 # Dumplings
@@ -84,6 +84,6 @@ Steam the dumplings for 10-15 minutes after the water is boiling.
 
 ### Pan-Frying
 
-Start with hot pan and cold oil on medium heat. Swirl each dumpling in oil a bit to prevent sticking. After all the dumplings are placed in the pan, add a spoonful of water and cover the pan immediately. Let the dumplings cook for 5 minutes, covered.
+Start with hot pan and cold oil on medium heat. Swirl each dumpling in oil a bit to prevent sticking. After all the dumplings are placed in the pan, add a spoonful of water and cover the pan immediately. Let the dumplings cook for 5-7 minutes, covered. The bottom of the dumplings should be golden brown when they're done.
 
 ## Sauce
