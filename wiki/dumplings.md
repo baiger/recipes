@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T23:16:45-04:00
-modified: 2021-08-07T00:07:29-04:00
+modified: 2021-08-07T00:34:44-04:00
 ---
 
 # Dumplings
@@ -66,6 +66,24 @@ Vegetables may release their water content after coming into contact with salt. 
 
 ## Folding Methods
 
+The most important thing is to close the dumplings tightly and without too much air trapped inside. The folds are decorative in nature.
+
+(I'll add folding methods later since they're less important.)
+
 ## Cooking Methods
+
+Dumplings are usually boiled, steamed, or pan-fried. The cooking time in this section are for regular sized dumplings (~30g each) only.
+
+### Boiling
+
+Bring the water to a rolling boil in a large pot. Add dumplings. When the water boils again, add about 1/4 cups of cold water; repeat twice more. When the water boils again, the dumplings are done.
+
+### Steaming
+
+Steam the dumplings for 10-15 minutes after the water is boiling.
+
+### Pan-Frying
+
+Start with hot pan and cold oil on medium heat. Swirl each dumpling in oil a bit to prevent sticking. After all the dumplings are placed in the pan, add a spoonful of water and cover the pan immediately. Let the dumplings cook for 5 minutes, covered.
 
 ## Sauce
