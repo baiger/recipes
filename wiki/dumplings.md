@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T23:16:45-04:00
-modified: 2021-08-06T23:52:39-04:00
+modified: 2021-08-07T00:07:29-04:00
 ---
 
 # Dumplings
@@ -35,13 +35,26 @@ Here is a simple formula for dumpling fillings that my family uses:
 
 More steps can be taken to make the fillings better. See discussions below.
 
-### Spices
+### Spices and Herbs
 
-Most often 
+Regularly used spices and herbs include
+* Sichuan pepper
+* Black/white pepper
+* Cinnamon
+* Star anise
+* Fennel seeds
+* Bay leaves
+* Tsaoko (looks like black cardamom and nutmeg but tastes a bit different)
+* Ginger
+* Green onion
+
+Biting into a chunk of spice or herb in dumplings would be unpleasant. Therefore they are usually incorporated into the filling as powders or infused water/oil.
 
 ### Ground Meat
 
+It is important to stir the meat in one direction so that the meat binds to itself through fibres. Starch water is often added to ground meat to improve the binding.
 
+Spice infused water (up to 50% meat weight) and oil (up to 10%) can be added to the meat to improve its texture. Remember to add them in small amounts each time and stir in one direction until fully absorbed.
 
 ### Vegetables
 
@@ -50,7 +63,6 @@ Vegetables may release their water content after coming into contact with salt. 
 * Dressed in small amount of oil before mixing with salty ingredients
 * Parboiled
 * Finely chopped or grated
-
 
 ## Folding Methods
 
