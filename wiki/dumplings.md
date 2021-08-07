@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T23:16:45-04:00
-modified: 2021-08-07T00:41:55-04:00
+modified: 2021-08-07T00:43:02-04:00
 ---
 
 # Dumplings
@@ -18,7 +18,7 @@ Ingredients of dumpling wrap dough:
 
 ## Filling
 
-You have a lot of freedom in what you put inside a dumpling. Traditional fillings usually consist of a protein and one or more vegetables; vegan dumplings are occasionally made, too. For example:
+You have a lot of freedom in what you put inside a dumpling. Traditional fillings usually consist of a protein-rich ingredient and one or more vegetables; vegetable-only dumplings are occasionally made, too. For example:
 * Pork and cabbage
 * Shrimp and Chinese leek (garlic chives)
 * Egg and tomato
