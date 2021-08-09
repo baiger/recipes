@@ -1,6 +1,6 @@
 ---
 created: 2021-08-09T05:00:00-04:00
-modified: 2021-08-09T05:51:07-04:00
+modified: 2021-08-09T05:51:26-04:00
 ---
 
 # Sichuan Spiced Sweet Soy Sauce
@@ -11,7 +11,7 @@ Note: there are typically three types of soy sauce -- light, dark, and regular. 
 
 * Regular soy sauce 1000g
 * Brown sugar 400g
-* Ginger 20g
+* Ginger 20g, sliced
 * Green onion 20g (or 1 stalk)
 * Dried spices
    * Fennel seeds 3g
