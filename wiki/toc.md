@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-08-07T00:10:21-04:00
+modified: 2021-08-09T05:52:51-04:00
 ---
 
 # Table of Contents
@@ -28,4 +28,5 @@ In alphabetical order:
 * [Pepperoni](pepperoni)
 * [Pulses](pulses)
 * [Shakshuka](shakshuka)
+* [Sichuan spiced sweet soy sauce](sichuan-spiced-sweet-soy-sauce)
 * [Teriyaki sauce](teriyaki-sauce)
