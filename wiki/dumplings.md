@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T23:16:45-04:00
-modified: 2021-08-07T02:40:57-04:00
+modified: 2021-08-09T04:59:25-04:00
 ---
 
 # Dumplings
@@ -63,15 +63,15 @@ A spice infused oil may look like this:
 
 It is important to stir the meat in one direction so that the meat binds to itself through fibres. Starch water is often added to ground meat to improve the binding.
 
-Spice infused water (up to 50% meat weight) and oil (up to 10%) can be added to the meat to improve its texture. Remember to add them in small amounts each time and stir in one direction until fully absorbed.
+Spice infused water (up to 50% meat weight) and oil (up to 10%) can be added to the meat to improve both flavour and texture. Remember to add them in small amounts each time and stir in one direction until fully absorbed.
 
 ### Vegetables
 
 Vegetables may release their water content after coming into contact with salt. A watery filling is undesirable. Therefore, vegetables are often processed in one or more of the following ways to minimize water release:
 * Salted and water squeezed out
 * Dressed in small amount of oil before mixing with salty ingredients
-* Parboiled
-* Finely chopped or grated
+* Precooked (parboiled or baked)
+* Finely chopped or grated; excessive water patted away with paper towel
 
 ## Folding Methods
 
@@ -89,10 +89,14 @@ Bring the water to a rolling boil in a large pot. Add dumplings. When the water 
 
 ### Steaming
 
-Steam the dumplings for 10-15 minutes after the water is boiling.
+Steam the dumplings for 10-15 minutes after the water starts boiling.
 
 ### Pan-Frying
 
 Start with hot pan and cold oil on medium heat. Swirl each dumpling in oil a bit to prevent sticking. After all the dumplings are placed in the pan, add a spoonful of water and cover the pan immediately. Let the dumplings cook for 5-7 minutes, covered. The bottom of the dumplings should be golden brown when they're done.
 
-## Sauce
+## Dips
+
+Properly flavoured dumplings are good on their own, but many condiments can also be added to enhance the flavour.
+
+Popular traditional dips include black vinegar, soy sauce, chili oil, and most of the time a combination of them. A Chengdu favourite, "Zhong Dumplings", is know for its iconic dip of [Sichuan spiced sweet soy sauce](sichuan-spiced-sweet-soy-sauce) and chili oil. Similarly, aside from chili, the oil can be infused with other spices and herbs for a flavourful dip.
