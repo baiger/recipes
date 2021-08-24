@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-08-09T05:52:51-04:00
+modified: 2021-08-24T13:05:12-04:00
 ---
 
 # Table of Contents
@@ -14,6 +14,7 @@ In alphabetical order:
 * [Char siu](char-siu)
 * [Corn tortilla](corn-tortilla)
 * [Dumplings](dumplings)
+* [Egg drop soup](egg-drop-soup)
 * [Gluten formation](gluten-formation)
 * [Iced tea](iced-tea)
 * [Japanese cheesecake](japanese-cheesecake)
