@@ -1,6 +1,6 @@
 ---
 created: 2021-08-24T12:44:22-04:00
-modified: 2021-08-24T13:04:38-04:00
+modified: 2021-08-26T20:44:03-04:00
 ---
 
 # Egg Drop Soup
@@ -13,7 +13,7 @@ modified: 2021-08-24T13:04:38-04:00
 
 ### Vegetables and Other Variations
 
-Egg drop soup is often made with tomatoes, seaweed, or spinach, but your options are not limited to those. Another food that resembles egg drop soup is sweet rice wine ("jiuniang") cooked with ginger and egg. Arguably some of the porridges are egg drop soups, too.
+Egg drop soup is often made with tomatoes, seaweed, spinach, or luffa/loofah (yes, the young fruit of your bath sponge), but your options are not limited to those. Another food that resembles egg drop soup is sweet rice wine ("jiuniang") cooked with ginger and egg. Arguably some of the porridges are egg drop soups, too.
 
 ## Method
 
