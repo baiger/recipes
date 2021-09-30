@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-08-24T13:05:12-04:00
+modified: 2021-09-30T19:34:42-04:00
 ---
 
 # Table of Contents
@@ -23,6 +23,7 @@ In alphabetical order:
 * [Neapolitan pizza dough](neapolitan-pizza-dough)
 * [Filipino Adobo](filipino-adobo)
 * [Cooking oil](cooking-oil)
+* [Layered pancakes](layered-pancakes)
 * [Okonomiyaki](okonomiyaki)
 * [Oyster sauce five spice beans](oyster-sauce-five-spice-beans)
 * [Pâte à choux (choux pastry)](pate-a-choux)
