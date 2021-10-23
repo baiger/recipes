@@ -1,6 +1,6 @@
 ---
 created: 2021-10-22T22:13:15-04:00
-modified: 2021-10-22T23:42:48-04:00
+modified: 2021-10-22T23:44:27-04:00
 ---
 
 # Taiwanese Mayonnaise
@@ -14,8 +14,8 @@ Some people used egg white only to make this sauce, but I have not personally te
 ## Ingredients
 
 * 1 whole egg, size does not matter
-* Neutral oil 400-500ml
+* Neutral oil 400-500ml; adjust for the desired consistency
 * Sugar 80g
 * Salt 4g
-* (Optional) lemon or lime juice, half to 1 fruit (
+* (Optional) lemon or lime juice, half to 1 fruit (15-50ml); adjust for the desired consistency
 * (Optional) MSG 1g
