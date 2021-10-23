@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-09-30T19:34:42-04:00
+modified: 2021-10-22T23:34:46-04:00
 ---
 
 # Table of Contents
@@ -15,6 +15,7 @@ In alphabetical order:
 * [Corn tortilla](corn-tortilla)
 * [Dumplings](dumplings)
 * [Egg drop soup](egg-drop-soup)
+* [Egg pasteurization](egg-pasteurization)
 * [Gluten formation](gluten-formation)
 * [Iced tea](iced-tea)
 * [Japanese cheesecake](japanese-cheesecake)
@@ -31,4 +32,5 @@ In alphabetical order:
 * [Pulses](pulses)
 * [Shakshuka](shakshuka)
 * [Sichuan spiced sweet soy sauce](sichuan-spiced-sweet-soy-sauce)
+* [Taiwanese mayonnaise](taiwanese-mayonnaise)
 * [Teriyaki sauce](teriyaki-sauce)
