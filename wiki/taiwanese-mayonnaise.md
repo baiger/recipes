@@ -1,6 +1,6 @@
 ---
 created: 2021-10-22T22:13:15-04:00
-modified: 2021-10-22T23:44:27-04:00
+modified: 2021-10-22T23:56:48-04:00
 ---
 
 # Taiwanese Mayonnaise
@@ -15,7 +15,15 @@ Some people used egg white only to make this sauce, but I have not personally te
 
 * 1 whole egg, size does not matter
 * Neutral oil 400-500ml; adjust for the desired consistency
-* Sugar 80g
-* Salt 4g
+* Sugar 80-100g
+* Salt 4-6g
 * (Optional) lemon or lime juice, half to 1 fruit (15-50ml); adjust for the desired consistency
 * (Optional) MSG 1g
+
+## Method
+
+Beat the egg with dry ingredients until they dissolve and the egg mixture is foamy. Add oil, one tablespoon at a time, and beat until fully absorbed after each addition. The sauce will gradually thicken.
+
+Adjust consistency by adding oil or water phase (water, lemon juice, whipping cream, etc): more oil = more viscous sauce but also more translucent in appearance.
+
+Store in refrigerator and use, ideally, within a week (make smaller batches if you have trouble consuming the sauce in a short time -- simply cut everything except the egg proportionally).
