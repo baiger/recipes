@@ -1,6 +1,6 @@
 ---
 created: 2021-11-15T19:15:26-05:00
-modified: 2021-11-15T21:40:49-05:00
+modified: 2021-11-15T21:42:50-05:00
 ---
 
 # Fish Balls
@@ -14,6 +14,7 @@ modified: 2021-11-15T21:40:49-05:00
 * Egg white ~10%
 * Ice cold water 5~30% (adjust for firmness)
 * Ginger juice 1-2%
+* Ground black or white pepper 0.1-0.2% (optional)
 * Cooking wine 5% (optional)
 * Sesame oil 3% (optional)
 * Starch 5-10% (optional)
