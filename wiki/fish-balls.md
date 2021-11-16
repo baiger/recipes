@@ -1,6 +1,6 @@
 ---
 created: 2021-11-15T19:15:26-05:00
-modified: 2021-11-15T21:42:50-05:00
+modified: 2021-11-15T21:43:41-05:00
 ---
 
 # Fish Balls
@@ -21,6 +21,6 @@ modified: 2021-11-15T21:42:50-05:00
 
 ### Method
 
-Mix coarsely chopped fish fillet, salt, and water. Blend into a fine and sticky paste. Remove any strings if desired. Add ginger juice, cooking wine, sesame oil and blend to mix. Stir in starch. Let sit for 1-2 hours. Shape 1 tsp of fish paste into ball and gently release into 60-70C water. After all the fish balls have been formed, boil for 2 minutes.
+Mix coarsely chopped fish fillet, salt, and water. Blend into a fine and sticky paste. Remove any strings if desired. Add all the other liquids and blend to mix. Stir in dry ingredients and mix well. Let sit for 1-2 hours. Shape 1 tsp of fish paste into ball and gently release into 60-70C water. After all the fish balls have been formed, boil for 2 minutes.
 
 ## Variations
