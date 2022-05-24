@@ -1,6 +1,6 @@
 ---
 created: 2021-02-19T01:41:36-05:00
-modified: 2021-10-22T23:34:46-04:00
+modified: 2022-05-24T07:14:07-04:00
 ---
 
 # Table of Contents
@@ -17,6 +17,7 @@ In alphabetical order:
 * [Egg drop soup](egg-drop-soup)
 * [Egg pasteurization](egg-pasteurization)
 * [Gluten formation](gluten-formation)
+* [Hot and Sour Kelp](hot-and-sour-kelp)
 * [Iced tea](iced-tea)
 * [Japanese cheesecake](japanese-cheesecake)
 * [Japanese curry block](japanese-curry-block)
