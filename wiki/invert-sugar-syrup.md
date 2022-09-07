@@ -1,10 +1,3 @@
----
-created: 2022-09-07T02:31:43-04:00
-modified: 2022-09-07T02:50:25-04:00
----
-
-# Invert Sugar Syrup
-
 ## Ingredients
 By weight:
 * Sugar 1000 parts
