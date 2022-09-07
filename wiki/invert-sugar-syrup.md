@@ -1,6 +1,6 @@
 ---
 created: 2022-09-07T02:31:43-04:00
-modified: 2022-09-07T02:51:43-04:00
+modified: 2022-09-07T02:54:08-04:00
 ---
 
 # Invert Sugar Syrup
@@ -14,4 +14,6 @@ By weight:
 
 ## Method
 
-Mixing everything except baking soda in a pot. Bring to a boil on medium heat; stir constantly. Remove from heat when desired consistency is achieved (be aware that cooled syrup will thicken significantly). For consistent results, insert a candy thermometer and remove from heat when the syrup reaches 114°C (237°F)
+Mixing everything except baking soda in a pot. Bring to a boil on medium heat; stir constantly. Remove from heat when desired consistency is achieved (be aware that cooled syrup will thicken significantly). For consistent results, insert a candy thermometer and remove from heat when the syrup reaches 114°C (237°F).
+
+If you want to adjust the pH, add desired amount of baking soda after the syrup is removed from heat and stir to dissolve.
